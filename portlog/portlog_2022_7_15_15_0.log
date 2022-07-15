@@ -1,0 +1,4 @@
+Statu: LISTENING - Local Address: 127.0.0.53%lo:53 - Remote Address: 0.0.0.0:*
+Statu: LISTENING - Local Address: 0.0.0.0:22 - Remote Address: 0.0.0.0:*
+Statu: ESTABLISHED - Local Address: 172.31.95.247:22 - Remote Address: 18.206.107.26:7848
+Statu: LISTENING - Local Address: [::]:22 - Remote Address: [::]:*
