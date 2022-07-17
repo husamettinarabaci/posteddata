@@ -1,0 +1,8 @@
+Statu: LISTENING - Local Address: 127.0.0.53%lo:53 - Remote Address: 0.0.0.0:*
+Statu: LISTENING - Local Address: 0.0.0.0:22 - Remote Address: 0.0.0.0:*
+Statu: SYN-RECV - Local Address: 172.31.95.247:22 - Remote Address: 162.142.125.160:5189
+Statu: SYN-RECV - Local Address: 172.31.95.247:22 - Remote Address: 61.177.173.42:17502
+Statu: SYN-RECV - Local Address: 172.31.95.247:22 - Remote Address: 61.177.173.42:31888
+Statu: ESTABLISHED - Local Address: 172.31.95.247:22 - Remote Address: 162.142.125.219:41212
+Statu: SYN-RECV - Local Address: 172.31.95.247:22 - Remote Address: 61.177.173.42:56292
+Statu: LISTENING - Local Address: [::]:22 - Remote Address: [::]:*
